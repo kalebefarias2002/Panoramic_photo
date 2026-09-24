@@ -40,15 +40,6 @@ Tkinter já vem com o Python; não precisa instalar.
 Rode o `conferir.py --fotos` **ainda no dia da captura**, antes de sair do
 lugar. Ele leva dois segundos e evita a viagem de volta.
 
-## Não tem relatório: vocês apresentam
-
-A nota sai da **apresentação em aula**, com o programa rodando. O que se mostra
-e as perguntas que vão ser feitas estão na **seção 12 do enunciado** — leiam
-antes, porque os números que ele cobra vocês têm de ter medido.
-
-No Portal vocês só depositam um `panorama-<seus-sobrenomes>.zip`, para eu poder
-rodar depois:
-
 ```
 costurar.py  piramide.py  visor.py  pontos.json
 fotos/                  as originais, sem reduzir
