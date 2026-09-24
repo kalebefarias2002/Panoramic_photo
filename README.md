@@ -11,10 +11,6 @@ cd panorama
 python3 -m venv .venv
 .venv/bin/pip install numpy pillow
 ```
-
-Daqui em diante, **rode tudo com `.venv/bin/python`**, nunca com `python3`
-direto — é o mesmo combinado dos programas da aula 03 e do DOOM.
-
 Tkinter já vem com o Python; não precisa instalar.
 
 ## Os arquivos
